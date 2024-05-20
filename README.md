@@ -31,12 +31,5 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 - Jupyter Notebook
 
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
 Created by [@JISHNU-H] - feel free to contact me!
